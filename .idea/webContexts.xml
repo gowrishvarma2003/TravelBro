@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/LoginPage.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/co_traveller/CoTravellerIndex.jsp" value="file://$PROJECT_DIR$/src/main/webapp/co_traveller" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/co_traveller/add_journey_form.jsp" value="file://$PROJECT_DIR$/src/main/webapp/co_traveller" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/co_traveller/display_journey.jsp" value="file://$PROJECT_DIR$/src/main/webapp/co_traveller" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/co_traveller/search_traveller.jsp" value="file://$PROJECT_DIR$/src/main/webapp/co_traveller" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/forgot_password.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/friend_pool/friend_pool.jsp" value="file://$PROJECT_DIR$/src/main/webapp/friend_pool" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/friend_pool/join.jsp" value="file://$PROJECT_DIR$/src/main/webapp/friend_pool" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/login_page.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/profile.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/share_auto/auto_share.jsp" value="file://$PROJECT_DIR$/src/main/webapp/share_auto" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/share_auto/auto_share_registration.jsp" value="file://$PROJECT_DIR$/src/main/webapp/share_auto" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/share_auto/auto_share_requests.jsp" value="file://$PROJECT_DIR$/src/main/webapp/share_auto" />
+      </map>
+    </option>
+  </component>
+</project>
